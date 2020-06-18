@@ -24,4 +24,4 @@ logging:
     org.springframework.web.servlet.DispatcherServlet: DEBUG
     org.springframework.cloud.sleuth: DEBUG
     
-name: zhangfei
+name: zhangfei-dev
